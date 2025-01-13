@@ -13,3 +13,5 @@ To develop and design a comprehensive dashboard that analyzes superstore sales p
 
 	What is the YoY change in the number of orders placed?
 
+## Dashboard Interaction
+<a href="https://github.com/duval-ys/Tableau-Project/blob/main/Screenshot%202025-01-13%20203219.png">View Dashboard</a>
